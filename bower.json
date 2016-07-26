@@ -1,0 +1,18 @@
+{
+  "name": "gulp-for-trainee",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "a.grigoriev <a.greegoriev@gmail.com> (http://github.com/defunked)"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
