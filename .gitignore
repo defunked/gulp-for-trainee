@@ -24,6 +24,7 @@ dist
 .settings
 .tmproj
 Thumbs.db
+bower-components/
 
 # Folders to ignore
 .CVS
@@ -31,8 +32,8 @@ Thumbs.db
 .hg
 .idea
 .svn
-bower_components
+
 
 # Node.JS
-node_modules
+node_modules/
 npm-debug.log
