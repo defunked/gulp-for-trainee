@@ -6,7 +6,7 @@
     "a.grigoriev <a.greegoriev@gmail.com> (http://github.com/defunked)"
   ],
   "license": "ISC",
-  "homepage": "",
+  "homepage": "https://github.com/defunked/bourbon-test",
   "private": true,
   "ignore": [
     "**/.*",
