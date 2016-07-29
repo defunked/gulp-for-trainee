@@ -1,4 +1,6 @@
-@import "bourbon/bourbon";
+@import "app/libs/bourbon/app/assets/stylesheets/_bourbon.scss";
+@import "_bourbon-test.sass";
+@import "_bourbon-test.scss";
 
 body {
   background-color: pink;

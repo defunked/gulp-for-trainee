@@ -1,6 +1,5 @@
 .paragraphs-behave-like-blocks {
-  -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   display: inline-block;
   vertical-align: baseline;
   zoom: 1;
@@ -9,11 +8,9 @@
   background-color: olive;
   width: 550px;
   padding: 40px;
-  margin-right: 40px; }
+  margin-right: 40px;
+}
 
 .paragraphs-behave-like-blocks:last-child {
-  margin-right: 0px; }
-
-body {
-  background-color: pink;
-  color: white; }
+  margin-right: 0px;
+}
